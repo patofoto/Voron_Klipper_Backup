@@ -1,6 +1,6 @@
 .env
 secrets.conf
-*.swp
+.demon_vars.cfg.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
 *.bak
